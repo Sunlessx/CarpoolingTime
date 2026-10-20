@@ -1,0 +1,10 @@
+# identifiants privés d'un serveur (ex: dev-isi.utt.fr)
+app/controller/config.local.php
+
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# ancien readme, contient les identifiants du serveur UTT
+readme.txt
